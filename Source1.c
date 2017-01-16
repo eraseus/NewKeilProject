@@ -1,5 +1,5 @@
 #include <stdio.h>
 main()
 {
-	printf("hell world\n");
+	printf("my head is on fire\n");
 }
